@@ -1,0 +1,10 @@
+
+
+UNSPLASH_API_KEY = ''
+UNSPLASH_CLIENT_SECRET = ""
+UNSPLASH_REDIRECT_URI = "urn:ietf:wg:oauth:2.0:oob"
+
+
+FLICKR_API_KEY = ''
+FLICKR_API_SECRET = ''
+

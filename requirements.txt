@@ -1,0 +1,4 @@
+flickrapi
+unsplashpy
+requests
+urllib3
